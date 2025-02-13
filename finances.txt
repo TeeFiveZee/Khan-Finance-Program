@@ -1,0 +1,5 @@
+Income: 1000000.0
+Savings: 0
+Total Expense: 20000.0
+Balance: 980000.0
+Expenses: {'car': 20000.0}
